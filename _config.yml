@@ -1,5 +1,11 @@
-title: Dinky theme
-description: Dinky is a red hot theme for GitHub Pages.
-show_downloads: true
+title: Kelvio Silva
+description: Web Developer / Security Analyst / IT Infrastructure
+#Alterado de download_links para show_links
+show_links: true
 google_analytics:
 theme: jekyll-theme-dinky
+#Criado a variável
+github: 
+      linkedin: https://www.linkedin.com/in/kelvio-silva-a7622a160
+      owner_url: https://github.com/KWWS
+      repository_url: https://github.com/KWWS/dinky

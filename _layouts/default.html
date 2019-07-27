@@ -19,9 +19,9 @@
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
-          {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
+          <!-- Alterado de download para links -->
+          {% if site.show_links %}
+            <li class="links"><a class="buttons" href="{{ site.github.linkedin }}">Linkedin</a></li>
           {% endif %}
           <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
         </ul>
@@ -42,7 +42,9 @@
       </section>
 
       <footer>
+        <!--
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      -->
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
