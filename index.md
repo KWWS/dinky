@@ -4,7 +4,7 @@ layout: default
 
 # Kelvio Silva
 
-Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, concluirei o curso em Junho de 2020. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; conhecimento em **front-end** e **back-end**, **CMS**s e **LM**S; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento básico em **Linux**, porém estou estudando para tirar uma certificação **Linux** inicial, tenho conhecimento em **Windows 7** e **Windows 10**; Administração de contas de **e-mail Zimbra**; **Suporte a usuários**; Atualmente estou bastante interessado na área de **Segurança da Informação** também.
+Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, concluirei o curso em Junho de 2020. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento básico em **Linux**, porém estou estudando para tirar uma certificação **Linux** inicial, tenho conhecimento em **Windows 7** e **Windows 10**; Administração de contas de **e-mail Zimbra**; **Suporte aos usuários**; Atualmente estou bastante interessado na área de **Segurança da Informação** também.
 
 ## Sobre mim
 
