@@ -73,5 +73,5 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ```
-END GAME
+GAME END
 ```
