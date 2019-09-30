@@ -16,8 +16,10 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Curso       | Horas          | Instituição |
 |:-------------|:------------------|:------|
 | Linux Beginners in Cloud | 20h | 4Linux  |
+| DevOps Essentials | 20h | 4Linux  |
 | Modelagem de Dados | 12h | Fundação Bradesco  |
 | Segurança em Tecnologia da Informação | 12h | Fundação Bradesco  |
+| Sistemas Operacionais - Conceitos Básicos | 5h | Fundação Bradesco  |
 | Totvs - Gestão Empresarial com ERP | 12h | Softex  |
 | Segurança e Privacidade do Computador | 3h | Softex  |
 | Introdução à Segurança da Informação | 15h | eSecurity  |
@@ -41,6 +43,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | SQL Completo | 20h | Softblue  |
 | Administrando Servidores Windows 2016 | 40h | aulaead  |
 | GIT e GITHUB  | 40h | aulaead  |
+| Primeiros Passos com PowerShell | 40h | aulaead  |
 | Linux Essentials | 13h | Certificação Linux  |
 
 ### Linguagens por afinidade:
