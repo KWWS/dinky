@@ -20,6 +20,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Modelagem de Dados | 12h | Fundação Bradesco  |
 | Segurança em Tecnologia da Informação | 12h | Fundação Bradesco  |
 | Sistemas Operacionais - Conceitos Básicos | 5h | Fundação Bradesco  |
+| Fundamentos de COBIT 4.1 | 16h | Fundação Bradesco  |
 | Totvs - Gestão Empresarial com ERP | 12h | Softex  |
 | Segurança e Privacidade do Computador | 3h | Softex  |
 | Introdução à Segurança da Informação | 15h | eSecurity  |
@@ -45,6 +46,10 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | GIT e GITHUB  | 40h | aulaead  |
 | Primeiros Passos com PowerShell | 40h | aulaead  |
 | Linux Essentials | 13h | Certificação Linux  |
+| Iniciando com Javascript - Trabalhando com Ajax | 5h | School Of Net  |
+| Desenvolvimento de Temas para Wordpress | 10h | School Of Net  |
+| Temas Avançados com Wordpress | 7h | School Of Net  |
+| Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 
 ### Linguagens por afinidade:
 
