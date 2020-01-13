@@ -15,7 +15,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 
 | Nome       | Certificadora | Período de Validade |
 |:-------------|:------------------|:------|
-| LGPD Foundation | 20h | Não expira (Lifetime) |
+| LGPD Foundation | Itcerts | Não expira (Lifetime) |
 
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
@@ -48,7 +48,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | CSS | 20h | RLSYSTEM  |
 | JSP e Servlets | 20h | RLSYSTEM  |
 | Node JS | 20h | RLSYSTEM  |
-| VueJS | 20h | RLSYSTEM  |
+| Vue JS | 20h | RLSYSTEM  |
 | SQL Completo | 20h | Softblue  |
 | Administrando Servidores Windows 2016 | 40h | aulaead  |
 | GIT e GITHUB  | 40h | aulaead  |
@@ -87,6 +87,8 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 - Estágio
   - EDC - Escola de Cursos.
   - TREMS - Tribunal Regional Eleitoral de Mato Grosso do Sul.
+  
+  
   
 #### Contato:
 
