@@ -11,6 +11,12 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 * Busco melhorar a cada dia, fazendo diversos cursos online, lendo bastante livros de TI e praticando o conhecimento adquirido;
 * Meu objetivo principal é ser útil para a sociedade;
 
+### Certificações:
+
+| Nome       | Certificadora | Período de Validade |
+|:-------------|:------------------|:------|
+| LGPD Foundation | 20h | Não expira (Lifetime) |
+
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
 | Curso       | Horas          | Instituição |
@@ -41,6 +47,8 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | C# Orientado a Objetos | 20h | RLSYSTEM  |
 | CSS | 20h | RLSYSTEM  |
 | JSP e Servlets | 20h | RLSYSTEM  |
+| Node JS | 20h | RLSYSTEM  |
+| VueJS | 20h | RLSYSTEM  |
 | SQL Completo | 20h | Softblue  |
 | Administrando Servidores Windows 2016 | 40h | aulaead  |
 | GIT e GITHUB  | 40h | aulaead  |
@@ -49,7 +57,12 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Iniciando com Javascript - Trabalhando com Ajax | 5h | School Of Net  |
 | Desenvolvimento de Temas para Wordpress | 10h | School Of Net  |
 | Temas Avançados com Wordpress | 7h | School Of Net  |
+| Desenvolvimento de Plugins para Wordpress | 6h | School Of Net  |
+| Plugins Avançados com Wordpress | 8h | School Of Net  |
+| Sass | 5h | School Of Net  |
+| Less | 4h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
+| Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
 ### Linguagens por afinidade:
 
@@ -75,6 +88,9 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
   - EDC - Escola de Cursos.
   - TREMS - Tribunal Regional Eleitoral de Mato Grosso do Sul.
   
+#### Contato:
+
+E-mail: cavalksw@gmail.com
 
 #### Icons
 
