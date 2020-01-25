@@ -61,6 +61,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Plugins Avançados com Wordpress | 8h | School Of Net  |
 | Sass | 5h | School Of Net  |
 | Less | 4h | School Of Net  |
+| Ethical Hacking | 9h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
