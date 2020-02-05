@@ -17,10 +17,20 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 |:-------------|:------------------|:------|
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
 
-### Livros Recomendados:
+### Livros de TI Recomendados:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=60c4a398cbde0c23298695250ff724fb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=f9229c0bfb6893643dd655cde5b6a867&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
 </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8543107164&asins=8543107164&linkId=ec2075726e2d6525c8780c7540c48f32&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574529370&asins=8574529370&linkId=7dcbe499a053df4b089dafe825e627e4&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8576088509&asins=8576088509&linkId=7667d40f74d9efc410860ff2efb247d9&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8550810614&asins=8550810614&linkId=57d30638e7616e6108c900a1acdad1be&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8550802697&asins=8550802697&linkId=499aa96bca3b59e4b15795c71766cd6a&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+/iframe>
 
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
@@ -67,6 +77,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Sass | 5h | School Of Net  |
 | Less | 4h | School Of Net  |
 | Ethical Hacking | 9h | School Of Net  |
+| Painel Administrativo com Bootstrap | 10h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
