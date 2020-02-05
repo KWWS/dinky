@@ -17,6 +17,11 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 |:-------------|:------------------|:------|
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
 
+### Livros Recomendados:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=60c4a398cbde0c23298695250ff724fb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+</iframe>
+
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
 | Curso       | Horas          | Instituição |
