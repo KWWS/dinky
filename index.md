@@ -17,7 +17,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 |:-------------|:------------------|:------|
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
 
-### Livros de TI Recomendados:
+### Livros de TI recomendados:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=f9229c0bfb6893643dd655cde5b6a867&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
 </iframe>
