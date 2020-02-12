@@ -4,7 +4,7 @@ layout: default
 
 # Kelvio Silva
 
-Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, concluirei o curso em Junho de 2020. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento básico em **Linux**, porém estou estudando para tirar uma certificação **Linux** inicial, tenho conhecimento em **Windows 7** e **Windows 10**; Administração de contas de **e-mail Zimbra**; **Suporte aos usuários**; Atualmente estou bastante interessado na área de **Segurança da Informação** também.
+Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, concluirei o curso em Junho de 2020. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Suporte aos usuários** e atendimentos de chamados em **Central de Serviços** utilizando o **GLPI**; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento em **Linux**, **Windows 7** e **Windows 10**; Conhecimento sobre a cultura **DevOps** e utilização das ferramentas **Git**, **Github**, **Jenkins** e **Openshift**; Administração de contas de **e-mail Zimbra**; Atualmente estou bastante interessado na área de **Segurança da Informação** também.
 
 ## Sobre mim
 
@@ -16,15 +16,6 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Nome       | Certificadora | Período de Validade |
 |:-------------|:------------------|:------|
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
-
-### Livros de TI recomendados:
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=f9229c0bfb6893643dd655cde5b6a867&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8543107164&asins=8543107164&linkId=ec2075726e2d6525c8780c7540c48f32&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574529370&asins=8574529370&linkId=7dcbe499a053df4b089dafe825e627e4&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
-</iframe>
 
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
@@ -72,6 +63,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Less | 4h | School Of Net  |
 | Ethical Hacking | 9h | School Of Net  |
 | Painel Administrativo com Bootstrap | 10h | School Of Net  |
+| Iniciando com Jenkins | 6h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
@@ -98,6 +90,15 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 - Estágio
   - EDC - Escola de Cursos.
   - TREMS - Tribunal Regional Eleitoral de Mato Grosso do Sul.
+  
+### Livros de TI recomendados:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574528609&asins=8574528609&linkId=f9229c0bfb6893643dd655cde5b6a867&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8543107164&asins=8543107164&linkId=ec2075726e2d6525c8780c7540c48f32&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=kelviosilva-20&marketplace=amazon&region=BR&placement=8574529370&asins=8574529370&linkId=7dcbe499a053df4b089dafe825e627e4&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=bf002d&bg_color=ffffff">
+</iframe>  
   
   
   
