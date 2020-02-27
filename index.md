@@ -64,6 +64,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Ethical Hacking | 9h | School Of Net  |
 | Painel Administrativo com Bootstrap | 10h | School Of Net  |
 | Iniciando com Jenkins | 6h | School Of Net  |
+| Avançando com Jenkins | 6h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
