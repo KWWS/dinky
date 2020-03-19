@@ -66,6 +66,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Iniciando com Jenkins | 6h | School Of Net  |
 | Avançando com Jenkins | 6h | School Of Net  |
 | Monitorando Aplicações com Zabbix | 6h | School Of Net  |
+| Monitoramento - Iniciando com Prometheus | 6h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
