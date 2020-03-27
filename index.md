@@ -49,6 +49,7 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | JSP e Servlets | 20h | RLSYSTEM  |
 | Node JS | 20h | RLSYSTEM  |
 | Vue JS | 20h | RLSYSTEM  |
+| SQL Server Básico | 20h | RLSYSTEM  |
 | SQL Completo | 20h | Softblue  |
 | Administrando Servidores Windows 2016 | 40h | aulaead  |
 | GIT e GITHUB  | 40h | aulaead  |
