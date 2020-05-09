@@ -68,6 +68,11 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Avançando com Jenkins | 6h | School Of Net  |
 | Monitorando Aplicações com Zabbix | 6h | School Of Net  |
 | Monitoramento - Iniciando com Prometheus | 6h | School Of Net  |
+| Otimizações Técnicas de SEO | 5h | School Of Net  |
+| MS SQL Server | 5h | School Of Net  |
+| Administrando SQL Server - Parte 1 | 6h | School Of Net  |
+| Iniciando com Cassandra | 5h | School Of Net  |
+| Iniciando com Docker | 7h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 
