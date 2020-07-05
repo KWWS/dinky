@@ -4,7 +4,7 @@ layout: default
 
 # Kelvio Silva
 
-Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, concluirei o curso em Junho de 2020. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Suporte aos usuários** e atendimentos de chamados em **Central de Serviços** utilizando o **GLPI**; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento em **Linux**, **Windows 7** e **Windows 10**; Conhecimento sobre a cultura **DevOps** e utilização das ferramentas **Git**, **Github**, **Jenkins** e **Openshift**; Administração de contas de **e-mail Zimbra**; Atualmente estou bastante interessado na área de **Segurança da Informação** também.
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Suporte aos usuários** e atendimentos de chamados em **Central de Serviços** utilizando o **GLPI**; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento em **Linux**, **Windows 7** e **Windows 10**; Conhecimento sobre a cultura **DevOps** e utilização das ferramentas **Git**, **Github**, **Jenkins** e **Openshift**; Administração de contas de **e-mail Zimbra**; Atualmente estou bastante interessado nas áreas de **Segurança da Informação** e **DevOps** também.
 
 ## Sobre mim
 
@@ -16,6 +16,8 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Nome       | Certificadora | Período de Validade |
 |:-------------|:------------------|:------|
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
+| InfoSec Foundation | Itcerts | Não expira (Lifetime) |
+| Scrum Foundation Professional Certificate | CertiProf | Não expira (Lifetime) |
 
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
@@ -75,6 +77,9 @@ Sou **programador web**, atualmente cursando **Tecnologia em Análise e Desenvol
 | Iniciando com Docker | 7h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
+| EXIN ISO/EIC 27001 Overview | 3,5h | PMG Academy  |
+| EXIN Green IT Foundation Overview | 3h | PMG Academy  |
+| Wireshark Para Iniciantes | 2h | DLTEC  |
 
 ### Linguagens por afinidade:
 
