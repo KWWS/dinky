@@ -10,6 +10,7 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e
 
 * Busco melhorar a cada dia, fazendo diversos cursos online, lendo bastante livros de TI e praticando o conhecimento adquirido;
 * Meu objetivo principal é ser útil para a sociedade;
+* Membro ANPPD;
 
 ### Certificações:
 
