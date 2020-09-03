@@ -19,6 +19,7 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e
 | LGPD Foundation | Itcerts | Não expira (Lifetime) |
 | InfoSec Foundation | Itcerts | Não expira (Lifetime) |
 | Scrum Foundation Professional Certificate | CertiProf | Não expira (Lifetime) |
+| DevOps Essentials Professional Certificate | CertiProf | Não expira (Lifetime) |
 
 ### Cursos online com certificado, realizados de 2018 até o momento:
 
@@ -76,11 +77,14 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e
 | Administrando SQL Server - Parte 1 | 6h | School Of Net  |
 | Iniciando com Cassandra | 5h | School Of Net  |
 | Iniciando com Docker | 7h | School Of Net  |
+| Firewall Iptables | 6h | School Of Net  |
 | Fundamentos de Arquitetura de Sistemas | 6h | Digital Innovation One  |
 | Projetos ágeis com SCRUM | 2h | Digital Innovation One  |
 | EXIN ISO/EIC 27001 Overview | 3,5h | PMG Academy  |
 | EXIN Green IT Foundation Overview | 3h | PMG Academy  |
 | Wireshark Para Iniciantes | 2h | DLTEC  |
+| GIMP | 2h | Udemy  |
+| Analista de Cybersecurity | 148h | IGTI  |
 
 ### Linguagens por afinidade:
 
