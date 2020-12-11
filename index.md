@@ -85,6 +85,7 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e
 | Wireshark Para Iniciantes | 2h | DLTEC  |
 | GIMP | 2h | Udemy  |
 | Analista de Cybersecurity | 148h | IGTI  |
+| Profissional DevOps | 148h | IGTI  |
 
 ### Linguagens por afinidade:
 
