@@ -4,7 +4,7 @@ layout: default
 
 # Kelvio Silva
 
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS**s e **LM**S; **Suporte aos usuários** e atendimentos de chamados em **Central de Serviços** utilizando o **GLPI**; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento em **Linux**, **Windows 7** e **Windows 10**; Conhecimento sobre a cultura **DevOps** e utilização das ferramentas **Git**, **Github**, **Jenkins** e **Openshift**; Administração de contas de **e-mail Zimbra**; Atualmente estou bastante interessado nas áreas de **Segurança da Informação** e **DevOps** também.
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**. Adoro tecnologia e aprender coisas novas diariamente. Sou focado em aprensentar resultados, adotando as melhores práticas e eficaz na resoluções de problemas; Tenho bom raciocínio lógico; Conhecimento em **Front-end** e **Back-end**, **CMS** e **LMS**; **Suporte aos usuários** e atendimentos de chamados em **Central de Serviços** utilizando o **GLPI**; **Active Directory** com **Windows Server** 2003, 2008 e 2016, rotinas de **Backup** com **HP Data Protector** e **Veeam**; Conhecimento em **Linux**, **Windows 7** e **Windows 10**; Conhecimento sobre a cultura **DevOps** e utilização das ferramentas **Git**, **Github**, **Jenkins** e **Openshift**; Administração de contas de **e-mail Zimbra**; Atualmente estou bastante interessado nas áreas de **Segurança da Informação** e **DevOps** também.
 
 ## Sobre mim
 
